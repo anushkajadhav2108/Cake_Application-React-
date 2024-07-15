@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World"
+    }
+  ],
+  "product": [
+    {
+      "id": "636f",
+      "name": "Cake 1",
+      "price": "850",
+      "img": "/assets/img2.jpg"
+    },
+    {
+      "id": "d755",
+      "name": "Cake 2",
+      "price": "1200",
+      "img": "/assets/img1.webp"
+    }
+  ]
+}
